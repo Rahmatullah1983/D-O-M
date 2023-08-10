@@ -2,6 +2,7 @@ const button = document.querySelector("#submit");
 const todolist = document.querySelector('#todo');
 const todoNr =document.querySelector('.todoNr b');
 const main = document.querySelector('.main');
+const item = document.querySelector('.item');
 
 //console.log(todoNr);
 //const items = todolist.children;
